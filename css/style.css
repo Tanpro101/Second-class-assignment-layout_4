@@ -1,0 +1,75 @@
+* {
+    margin: 0rem;
+    padding: 0rem;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background: pink;
+}
+header h1{
+    font-size: 3rem;
+    color: royalblue;
+    text-align: center;
+    padding: 1.5rem 0rem;
+}
+nav{
+  background: gray;
+}
+nav h1{
+  font-size: 2.5rem;
+  color: hotpink;
+  padding: 1.5rem;
+  text-align: center;
+}
+section{
+    overflow: hidden;
+}
+article{
+    background: yellow;
+    height: 50rem;
+    width: 70%;
+    float: left;
+}
+article h1{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    padding-left: 3rem;
+}
+.middle{
+    background: green;
+    height: 20rem;
+}
+.bottom{
+    background: hotpink;
+    height: 20rem;
+}
+aside{
+    background: blue;
+    height: 50rem;
+    float: right;
+    width: 30%;
+    
+}
+aside h1{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    padding: 6rem 0rem;
+}
+footer{
+    background: turquoise;
+}
+footer h1{
+    text-align: center;
+    font-size: 2rem;
+    padding: 1rem 0rem;
+    color: rebeccapurple;
+}
